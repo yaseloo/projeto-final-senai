@@ -1,0 +1,13 @@
+📂 projeto-final-senai  
+ ├── 📁 game    # Contém a lógica do jogo  
+ │   ├── __init__.py    # Arquivo vazio para indicar que "game" é um pacote  
+ │   ├── pergunta.py    # Classe Pergunta  
+ │   ├── jogo.py    # Classe Jogo  
+ │   ├── config.py    # Configurações globais  
+ │   ├── 📁 assets    # Imagens e sons  
+ │       ├── background.jpg  
+ │       ├── correct.wav  
+ │       ├── wrong.wav  
+ ├── 📁 main    # Ponto de entrada  
+ │   ├── main.py    # Arquivo principal  
+
